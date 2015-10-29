@@ -1,4 +1,4 @@
-package com.couchbase.test.inf.data.loader;
+package com.couchbase.test.inf.data.generator;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
